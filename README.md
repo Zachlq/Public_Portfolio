@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Zachlq/Public_Portfolio/blob/main/Predicting_Churn_MOOC.ipynb) and ![Image](src)
+[https://github.com/Zachlq/Public_Portfolio/blob/main/Predicting_Churn_MOOC.ipynb] and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
